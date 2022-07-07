@@ -1,0 +1,5 @@
+package com.concepto.pucp.microservicios.app.medidas.models.repository;
+
+public class MedidaRepository {
+
+}

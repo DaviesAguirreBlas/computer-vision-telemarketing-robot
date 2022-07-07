@@ -1,0 +1,33 @@
+package com.concepto.pucp.microservicios.app.medidas.services;
+
+import java.util.Optional;
+
+import com.concepto.pucp.microservicios.app.medidas.models.entity.Medida;
+
+public class MedidaServicelmpl implements MedidaService {
+
+	@Override
+	public Iterable<Medida> findAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Optional<Medida> findById(Long id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Medida save(Medida medida) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteById(Long id) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

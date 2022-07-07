@@ -1,0 +1,35 @@
+package com.concepto.pucp.microservicios.app.medidas.services;
+
+import java.util.Optional;
+
+import org.springframework.stereotype.Service;
+
+import com.concepto.pucp.microservicios.app.medidas.models.entity.Medida;
+@Service
+public class MedidaServicelmpl implements MedidaService {
+
+	@Override
+	public Iterable<Medida> findAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Optional<Medida> findById(Integer idMedida) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Medida save(Medida medida) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteById(Integer idMedida) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

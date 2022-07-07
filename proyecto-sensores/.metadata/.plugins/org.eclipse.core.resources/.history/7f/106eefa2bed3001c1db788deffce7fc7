@@ -1,0 +1,6 @@
+package com.concepto.pucp.microservicios.app.medidas.services;
+
+public interface UsuarioService {
+	
+
+}

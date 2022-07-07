@@ -1,0 +1,5 @@
+package com.concepto.pucp.microservicios.app.config;
+
+public class ZuulConfiguration {
+
+}

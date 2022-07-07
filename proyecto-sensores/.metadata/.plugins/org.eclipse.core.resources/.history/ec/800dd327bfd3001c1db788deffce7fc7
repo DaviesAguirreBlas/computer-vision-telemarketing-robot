@@ -1,0 +1,11 @@
+package com.concepto.pucp.microservicios.app.medidas.services;
+
+public class MedidaServicelmpl implements MedidaService {
+
+	@Override
+	public void deleteById(Long id) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
